@@ -1,4 +1,4 @@
-#Backend verification (user login)
+#express backend verification with MongoDB(user login)
 
 learn to use [JWT](https://jwt.io/introduction) to authorize user login (auth route) or signup(users route). We can add 'x-auth-token' in the header with the user token to get authrized user info
 
